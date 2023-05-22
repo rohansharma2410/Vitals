@@ -143,4 +143,4 @@ EMAIL_HOST_PASSWORD = 'Rohashar@123' # host email password required
 # https://myaccount.google.com/lesssecureapps
 # otherwise you will get SMTPAuthenticationError at /contactus
 # this process is required because google blocks apps authentication by default
-EMAIL_RECEIVING_USER = ['882638r6145@gmail.com'] # email on which you will receive messages sent from website
+EMAIL_RECEIVING_USER = ['sharmar2410@gmail.com'] # email on which you will receive messages sent from website
